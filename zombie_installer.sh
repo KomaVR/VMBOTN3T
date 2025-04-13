@@ -17,7 +17,7 @@ fi
 pip3 install requests pycryptodome
 
 # Make sure the bot script is executable
-chmod +x zombieware_kali.py
+chmod +x zombie.py
 
 # Run zombieware
-python3 zombieware_kali.py
+python3 zombie.py
